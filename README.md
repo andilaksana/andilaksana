@@ -9,18 +9,21 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Andi Laksono**, a passionate developer specializing in **Web Programming** and **Python**.  
-I love solving problems with code, building elegant web applications, and constantly learning new things.
+I'm **Andi Laksono**, a passionate developer specializing in **Python Programming**.  
+I love solving problems with code, building elegant desktop applications, random data analysis and constantly learning new things.
 
 ---
 
 ## 🚀 Tech Stack
-
+- Soon ⚠️
+  
 ### 💻 Languages & Frameworks
-
+- 🔹 Python, Django, Flask, FastAPI
 
 ### 🛠️ Tools & Platforms
-
+- Git & GitHub
+- Nginx, Linux Shell
+- VSCode, Figma
 
 ## 🧩 Featured Projects
 Check out some of my pinned repos or visit my portfolio!
