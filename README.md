@@ -16,7 +16,7 @@ I love solving problems with code, building elegant desktop applications, random
 
 ## 🚀 Tech Stack
 - Soon ⚠️
-  
+
 ### 💻 Languages & Frameworks
 - 🔹 Python, Django, Flask, FastAPI
 
