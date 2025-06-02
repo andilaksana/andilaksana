@@ -15,7 +15,6 @@ I love solving problems with code, building elegant desktop applications, random
 ---
 
 ## 🚀 Tech Stack
-- Soon ⚠️
 
 ### 💻 Languages & Frameworks
 - 🔹 Python, Django, Flask, FastAPI
@@ -43,9 +42,9 @@ Check out some of my pinned repos or visit my portfolio!
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andilaksono)  
-[![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:andilaksono@example.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-121013?style=flat-square&logo=react&logoColor=61DAFB)](https://andilaksono.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laksanateknoid/)  
+[![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:andilaksana125@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-121013?style=flat-square&logo=react&logoColor=61DAFB)](laksanateknoid.blogspot.com)
 
 ---
 
